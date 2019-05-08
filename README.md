@@ -9,6 +9,10 @@ PowerSH : 페이지 변경사항 및 추가사항 있으면 저한테 명세서 
 PowerSH : 페이지 디자인 관련 수정사항도 연락바랍니다.<br>
 - - -
 
+- - -
+PowerDM : 아리갓또. <br>
+- - -
+
 ### 2019-04-30 update
 - Create prototype page.
 - It contatins
