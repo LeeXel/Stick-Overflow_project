@@ -11,7 +11,7 @@ PowerSH : 페이지 디자인 관련 수정사항도 연락바랍니다.<br>
 
 
 - - -
-Dongmini : csv로 파일 저장 완료.<br>
+Dongmini : excel로 파일 저장 완료.<br>
 Dongmini : heatmap 이미지 저장 완료. <br>
 - - -
 
