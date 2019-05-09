@@ -39,5 +39,5 @@ Dongmini : heatmap 이미지 저장 완료. <br>
 - Add Submodule 'Stick-Overflow' // This module is only django project.
 - Add To-do List
 
-SuperSecy : 데이터베이스 파일과 폴더 생성
-SuperSecy : 데이터베이스에 관한 README.md 파일 생성
+SuperSecy : 데이터베이스 파일과 폴더 생성 <br>
+SuperSecy : 데이터베이스에 관한 README.md 파일 생성 <br>
