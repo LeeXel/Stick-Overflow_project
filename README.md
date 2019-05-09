@@ -24,3 +24,6 @@ Dongmini : heatmap 이미지 저장 완료. <br>
 >>> signup_page
 >> logout_page
 >> file_upload_page
+
+### 2019-05-09 update
+ - Add Submodule 'Stick-Overflow' // This module is only django project.
