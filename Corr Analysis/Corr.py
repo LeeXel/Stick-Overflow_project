@@ -3,6 +3,7 @@ import numpy as np
 import seaborn as sns # heatmap을 그리기 위한 모듈
 import matplotlib.pyplot as plt # 그래프를 그리기 위해서 사용하는 모듈
 from PIL import Image # 파이썬 이미지 형식 모듈
+import os
 import sys
 
 if __name__ == "__main__" :
