@@ -1,1 +1,0 @@
-https://colab.research.google.com/github/Lee-App/Stick-Overflow/blob/master/Corr%20Analysis/File_corr.ipynb
