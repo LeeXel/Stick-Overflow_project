@@ -13,12 +13,12 @@ if __name__ == "__main__" :
   df = pd.read_excel(sys.argv[1])
   
   result = df.corr() # 상관계수
-  result.to_excel('') # 저장할 파일 경로
+  result.to_excel(sys.argv[2]) # 저장할 파일 경로
   
   Img = sns.heatmap(result, annot=True, linewidths=.5, fmt='.1f', cmap='Blues')
 
   #내 구글드라이브 경로로 이미지를 저장 하는 과정
   fig = plt.gcf() # 현재 이미지 Instance를 변수에 할당한다.
   plt.show()
-  fig.savefig('') # 이 Instance로 savefig()를 불러온다.
+  fig.savefig(sys.argv[3]) # 이 Instance로 savefig()를 불러온다.
   
