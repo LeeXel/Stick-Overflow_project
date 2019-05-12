@@ -8,4 +8,4 @@
 #### capture_04 이미지 파일 저장 완료
 #### capture_05 내 구글드라이브에 저장된 결과 화면
 #### capture_06 사용자가 원하는 경로에 저장 가능, Corr.py 파일 업로드 
-#### capture_06_결과 xlsx 파일과 pdf 내가 지정한 경로에 
+#### capture_06_결과 xlsx 파일과 pdf 내가 지정한 경로에 생성
