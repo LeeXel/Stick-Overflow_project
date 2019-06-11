@@ -1,4 +1,8 @@
 # Stick-Overflow
+Project Name(프로젝트 명) : Stick OverFlow
+Project Collaborator(참여자) : 이헌우, 박승훈, 김동민, 박상훈
+Project Summary(프로젝트 개요) : --
+
 capstone design project
 
 This page is about online Data Analysis System.
